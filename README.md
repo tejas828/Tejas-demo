@@ -1,4 +1,6 @@
 # Tejas-demo
 This is my first repository
 <br>
- Author - Tejas yadav (tej)
+ Author - Tejas yadav 
+ <br>
+ (tej)
